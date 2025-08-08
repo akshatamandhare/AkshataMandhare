@@ -1,9 +1,13 @@
-<!-- Banner -->
+<!-- Banner
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Akshata+Mandhare;Developer+%7C+ML+Learner+%7C+Tech+Enthusiast;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
-</p>
+</p> -->
 
 ---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Arial&size=24&duration=3000&color=000000&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Hi+%F0%9F%91%8B%2C+I'm+Akshata+Mandhare;Developer+%7C+ML+Learner+%7C+Tech+Enthusiast;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+</p>
 
 ### 🌟 About Me
 - 💻 Final year student passionate about software development and data
