@@ -33,7 +33,7 @@
 
 ### 🛠️ Languages and Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,data-analytic,git,github,vscode,powershell,react,supabase" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,git,github,vscode,powershell,react,supabase" />
 </p>
 
 ---
