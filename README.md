@@ -1,35 +1,7 @@
 <!-- Banner -->
-<!--<p align="center">
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Arial&size=24&duration=3000&color=000000&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Akshata+Mandhare;ML+Developer+%7C+Tech+Enthusiast" alt="Typing SVG" />
-</p>-->
-
-<!-- Light Mode Banner -->
-<p align="center" class="light-banner">
-  <img src="https://readme-typing-svg.demolab.com?font=Arial&size=24&duration=3000&color=000000&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Akshata+Mandhare;ML+Developer+%7C+Tech+Enthusiast" alt="Typing SVG Light" />
 </p>
-
-<!-- Dark Mode Banner -->
-<p align="center" class="dark-banner">
-  <img src="https://readme-typing-svg.demolab.com?font=Arial&size=24&duration=3000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Akshata+Mandhare;ML+Developer+%7C+Tech+Enthusiast" alt="Typing SVG Dark" />
-</p>
-
-<style>
-/* Default: Hide both (just in case) */
-.light-banner, .dark-banner {
-  display: none;
-}
-
-/* Light Mode: Show black text version */
-@media (prefers-color-scheme: light) {
-  .light-banner { display: block; }
-}
-
-/* Dark Mode: Show white text version */
-@media (prefers-color-scheme: dark) {
-  .dark-banner { display: block; }
-}
-</style>
-
 
 ![Profile Views](https://komarev.com/ghpvc/?username=akshatamandhare&label=Profile%20Views&color=blue&style=for-the-badge)
 
